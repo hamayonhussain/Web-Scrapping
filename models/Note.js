@@ -1,4 +1,4 @@
-cvar mongoose = require("mongoose");
+var mongoose = require("mongoose");
 
 // save a reference to the Schema constructor
 var Schema = mongoose.Schema;
